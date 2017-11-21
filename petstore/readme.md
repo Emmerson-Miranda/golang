@@ -81,4 +81,5 @@ $ ./bin/petstore-app-server
 URLs to query
 ---
 http://127.0.0.1:10000/api/pets
-http://127.0.0.1:10000/api/pets?limit=0
+
+![Example](./petstore-rest-call.png)
